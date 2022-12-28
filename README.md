@@ -1,5 +1,5 @@
 # handle-website-links
-#### If you need to handle links within large app this might come in handy.
+## If you need to handle links within large app this might come in handy.
 
 This simple script handles all links in your app:
 Internal links will be opened in the same window.
